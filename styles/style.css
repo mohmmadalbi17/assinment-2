@@ -1,0 +1,240 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*--------------------
+    Nav class start
+ ----------------------*/
+.banner-header {
+    background: rgba(255, 144, 14, 0.1);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 84%;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.navbar ul li {
+    display: inline-block;
+    margin: 10px 20px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.navbar ul li a:hover {
+    color: red;
+}
+
+.heading {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+/*------------------ 
+    Nav Class End
+---------------------*/
+
+/*----------------------
+    Div Class Start 
+------------------------*/
+
+div {
+    /* width: 865px;
+    height: 225px;
+    left: 526px;
+    top: 205px; */
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    justify-content: center;
+}
+
+.header-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 75px;
+    margin: 50px 430px 32px 500px;
+    text-align: center;
+}
+
+.header-title p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+}
+
+div button {
+    position: absolute;
+    background-color: orangered;
+    width: 180px;
+    height: 64px;
+    align-items: center;
+}
+
+div button a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.banner-img {
+    margin-top: 150px;
+}
+
+/*----------------
+    Main Topic
+---------------- */
+.first-container {
+    display: flex;
+    gap: 25px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.secend-container {
+    display: flex;
+    gap: 25px;
+    margin-top: 24px;
+    margin-left: 200px;
+}
+
+.thard-container {
+    position: absolute;
+    width: 550px;
+    height: 312px;
+    left: 950px;
+    right: 2000px;
+    top: 1750px;
+    text-align: center;
+}
+
+.first-text {
+    color: #727272;
+}
+
+.secend-text {
+    color: #131313;
+}
+
+.thard-text {
+    color: #FF900E;
+}
+
+/* ============ */
+
+.section-title {
+    position: absolute;
+    width: 1445px;
+    height: 1059px;
+    left: 213px;
+    top: 2235px;
+}
+
+.section-title-1 h1 {
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 30px;
+    /* margin-left: 50px; */
+    margin-right: 1000px;
+    margin-top: 153px;
+}
+
+.section-title-1 P {
+    font-weight: 400;
+    font-size: 16px;
+    /* margin-left: 218px; */
+    margin-right: 900px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.section-title-2 h4 {
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+
+.section-title-2 p {
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 50px;
+    margin-right: 900px;
+}
+
+.section-title-3 h4 {
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+
+.section-title-3 p {
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 50px;
+    margin-right: 900px;
+}
+
+.section-title-4 h4 {
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+
+.section-title-4 p {
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 50px;
+    margin-right: 900px;
+}
+
+.section-title-5 h4 {
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+
+.section-title-5 p {
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 50px;
+    margin-right: 900px;
+}
+
+.section-title img {
+    position: absolute;
+    width: 800px;
+    height: 1000px;
+    left: 600px;
+    top: 100px;
+    right: 300px;
+}
+.button-class{
+    text-align: center;
+}
+
