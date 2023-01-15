@@ -140,12 +140,19 @@ div button a {
 
 /* ============ */
 
-.section-title {
+/* .section-title {
     position: absolute;
     width: 1445px;
     height: 1059px;
     left: 213px;
     top: 2235px;
+}  */
+.section-title {
+    position: absolute;
+    width: 1445px;
+    height: 1059px;
+    left: 170px;
+    top: 2151px;
 }
 
 .section-title-1 h1 {
@@ -234,7 +241,83 @@ div button a {
     top: 100px;
     right: 300px;
 }
-.button-class{
+
+.button-class {
     text-align: center;
 }
 
+.thard-title {
+    position: absolute;
+    /* width: 258px;
+    height: 38px; */
+    left: 280px;
+    top: 3442px;
+    right: 1050px;
+}
+
+.container {
+    position: absolute;
+    left: 531.92px;
+    top: 3663.08px;
+    display: flex;
+    gap: 125px;
+    text-align: center;
+}
+
+.box-1 {
+    border: 1px solid #FF900E;
+    border-radius: 5px;
+    margin-right: 290.08px;
+}
+
+.box-2 {
+    border: 1px solid #FF900E;
+    border-radius: 5px;
+}
+
+.box-3 {
+    border: 1px solid #FF900E;
+    border-radius: 5px;
+}
+
+.box-4 {
+    border: 1px solid #FF900E;
+    border-radius: 5px;
+}
+
+.last-title,
+.h {
+    position: absolute;
+    width: 327px;
+    height: 53px;
+    left: 797px;
+    top: 3950px;
+    text-align: center;
+}
+
+.last-title,
+.p {
+    position: absolute;
+    width: 542px;
+    height: 52px;
+    left: 689px;
+    top: 3950px;
+}
+.sponsors{
+    display: flex;
+    text-align: center;
+    gap: 156px;
+    padding-top: 50px;
+}
+.sponsors, .img{
+    filter: grayscale(100%);
+}
+/*------------------ 
+    Footer Item
+---------------------*/
+.footer{
+    position: absolute;
+    padding-top: 2000px;
+    padding-left: 450px;
+    text-align: center;
+}
